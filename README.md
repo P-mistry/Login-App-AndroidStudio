@@ -14,3 +14,4 @@ In case the user forgets their password, the app can provide a password reset fu
 
 Overall, MyLoginApp aims to provide a seamless and secure authentication experience for Android users, allowing them to access personalized content and protect their sensitive information.
 <br>
+![Screenshot 2023-07-03 193702](https://github.com/parthnmistry/Login-App-AndroidStudio/assets/75114126/68ee2515-334f-41df-aa86-fc530cfc7b3d)
